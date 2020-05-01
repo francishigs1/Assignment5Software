@@ -1,0 +1,2 @@
+Users can download the files by clickind the "Clone or download" button in the right of the screen. These programs can be run by using the CMD prompt on Windows machines and typing:
+"javac programname.java" followed by "java programname.java"
